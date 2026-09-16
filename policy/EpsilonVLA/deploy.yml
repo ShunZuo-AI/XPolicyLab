@@ -5,10 +5,10 @@ host: 127.0.0.1
 bench_name: null
 task_name: stack_bowls
 env_cfg_type: arx_x5
-seed: 0
+seed: all
 eval_batch: true
 
-checkpoint_num: 59999
+checkpoint_num: 60000
 result_dir: "./results/epsilonvla/"
 obs_transform_pipeline: "xspark-v1.0"
 
